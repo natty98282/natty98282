@@ -22,10 +22,10 @@ My Skills:
 
 ## GitHub Stats
 
-![GitHub stars](https://img.shields.io/github/stars/natty98282/YourRepository?style=social)
-![GitHub forks](https://img.shields.io/github/forks/natty98282/YourRepository?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/natty98282/YourRepository?style=social)
+![GitHub stars](https://img.shields.io/github/stars/natty98282/Smart-Vehicle-Parking-System?style=social)
+![GitHub forks](https://img.shields.io/github/forks/natty98282/Smart-Vehicle-Parking-System?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/natty98282/Smart-Vehicle-Parking-System?style=social)
 
-![GitHub last commit](https://img.shields.io/github/last-commit/natty98282/YourRepository)
-![GitHub issues](https://img.shields.io/github/issues/natty98282/YourRepository)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/natty98282/YourRepository)
+![GitHub last commit](https://img.shields.io/github/last-commit/natty98282/Smart-Vehicle-Parking-System)
+![GitHub issues](https://img.shields.io/github/issues/natty98282/Smart-Vehicle-Parking-System)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/natty98282/Smart-Vehicle-Parking-System)

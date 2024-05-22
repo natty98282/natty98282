@@ -1,6 +1,4 @@
-# Project Title
-
-[Short description of your project]
+# Natty 
 
 ## Table of Contents
 
@@ -9,7 +7,7 @@
 
 ## About
 
-[🚀 Experienced Mobile App Developer | Flutter & Dart | FlutterFlow | WordPress Expert | UI/UX Designer
+[🚀 Experienced Mobile App Developer | Flutter & Dart | FlutterFlow | DevOps | UI/UX Designer
 
 Hello there! 👋 I'm Natnael Tadesse, a seasoned mobile app developer. My expertise spans across iOS, Android, Flutter native, and hybrid app development. I'm also proficient in utilizing FlutterFlow to create stunning and dynamic applications.
 

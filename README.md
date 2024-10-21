@@ -17,13 +17,3 @@ My Skills:
 🌐 WordPress (Website Development and Migration)
 🎨 UI/UX Design (Figma, AdobeXD)]
 
-
-## GitHub Stats
-
-![GitHub stars](https://img.shields.io/github/stars/natty98282?style=social)
-![GitHub forks](https://img.shields.io/github/forks/natty98282?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/natty98282?style=social)
-
-![GitHub last commit](https://img.shields.io/github/last-commit/natty98282)
-![GitHub issues](https://img.shields.io/github/issues/natty98282)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/natty98282)
